@@ -1,4 +1,4 @@
-# meteorite-classification
+# Machine Learning Analysis for Meteoritic Presolar Grain Classification
 Used machine learning to classify meteoritic presolar grains and compare to science classification. Python.
 
 The Machine Learning models used for this analysis include: XGBoost, Random Forest Classifier, Decision Tree, k Nearest Neighbors, Logistic Regression, Deep Learning and SVM. For each model, a variety of isotope combinations were analyzed inlcuding: carbon 12/13, silicon 29/28, silicon 30/28, nitrogen 14/15, and aluminum 26/27.
