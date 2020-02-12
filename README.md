@@ -7,6 +7,6 @@ Scientists have classified these presolar grains using stellar models, and the g
 
 Based on the number of records in each of those top isotope combination categories, we recommend using the carbon & silicon isotopes with either Random Forest Classifier or XGBoost. <img src="/machine learning files/assets/images/Top6combos_number_of_records.jpg" alt="Top 6 combinations: Number of Records">
 
-If you would like to install these files, you will need Jupyter Notebook to open the ipynb files, which contain all of the machine learning models in Python code. To view the Prezi project presentation, click: [Machine Learning Analysis for Meteoritic Presolar Grain Classification](https://prezi.com/view/lsPIz30stoGdFEnZHKBo/). If you don't already have a Prezi account, you can create a free basic account at: [Prezi Basic Account](https://prezi.com/pricing/?click_source=logged_element&page_location=header&element_text=get_started)
+If you would like to install these files, you will need Jupyter Notebook to open the ipynb files, which contain all of the machine learning models in Python code. To view the Prezi project presentation, click: [Machine Learning Analysis for Meteoritic Presolar Grain Classification](https://prezi.com/view/lsPIz30stoGdFEnZHKBo/). If you don't already have a Prezi account, you can create a free basic account at: [Prezi Basic Account](https://prezi.com/pricing/?click_source=logged_element&page_location=header&element_text=get_started).
 
 Data Source: [Presolar Grain Database](https://presolar.physics.wustl.edu/presolar-grain-database/)
